@@ -1,0 +1,3 @@
+Send out reminders on a daily basis for any items that have an open status and are over [Start of Text] number of days [End of Text] days old.
+
+[Open in Power Automate](https://make.powerautomate.com/create/fromNaturalLanguage?prompt=Send%20out%20reminders%20on%20a%20daily%20basis%20for%20any%20items%20that%20have%20an%20open%20status%20and%20are%20over%20%5DStart%20of%20Text%5B%20number%20of%20days%20%5DEnd%20of%20Text%5B%20days%20old&from=Copilot&utm_source=PromptLibrary)
